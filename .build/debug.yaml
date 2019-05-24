@@ -1,0 +1,8 @@
+client:
+  name: swift-build
+tools: {}
+targets:
+  "main": []
+  "test": []
+default: "main"
+commands: 

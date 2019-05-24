@@ -1,0 +1,5 @@
+module CClipboard [system] {
+  header "headers/libclipboard.h"
+  link "clipboard"
+  export *
+}
